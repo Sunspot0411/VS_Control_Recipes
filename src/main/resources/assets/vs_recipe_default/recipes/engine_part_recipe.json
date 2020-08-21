@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " II",
+        " IC",
+        "III"
+    ],
+    
+    "key":
+    {
+        "I": {
+            "item": "minecraft:iron_ingot"
+        },
+        "C": {
+            "item": "minecraft:redstone"
+        }
+    },
+    
+    "result":
+    {
+        "item": "vs_control:valkyrium_engine_part",
+        "count": 1
+    }
+}

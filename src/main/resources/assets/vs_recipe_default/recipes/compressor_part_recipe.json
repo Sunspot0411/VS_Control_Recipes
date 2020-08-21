@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "III",
+        "CDC",
+        "III"
+    ],
+    
+    "key":
+    {
+        "I": {
+            "item": "minecraft:iron_ingot"
+        },
+        "C": {
+            "item": "minecraft:slime_ball"
+        },
+        "D": {
+            "item": "vs_world:valkyrium_crystal"
+        }
+    },
+    
+    "result":
+    {
+        "item": "vs_control:valkyrium_compressor_part",
+        "count": 1
+    }
+}

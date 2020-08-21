@@ -1,0 +1,16 @@
+[
+{
+  "modid": "vs_recipe_default",
+  "name": "VS_Recipes_Default",
+  "description": "Recipe Module of ValkyrienSkies Mod.",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Ice2670"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
