@@ -13,7 +13,7 @@ apply plugin: 'net.minecraftforge.gradle.forge'
 
 version = "1.0"
 group = "com.ice2670.vs_recipe_default" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
-archivesBaseName = "VS_Recipes_Default"
+archivesBaseName = "VS_Control_Recipes_Default"
 
 sourceCompatibility = targetCompatibility = '1.8' // Need this here so eclipse task generates correctly.
 compileJava {
